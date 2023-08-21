@@ -1,1 +1,1 @@
-# replica.github.io
+theme: Architect
